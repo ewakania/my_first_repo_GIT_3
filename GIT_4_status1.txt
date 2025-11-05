@@ -9,8 +9,6 @@ Untracked files:
 	.DS_Store
 	GIT_2_vesrion.txt
 	GIT_4_status1.txt
-	GIT_4_status2.txt
 	Hello-World/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-Hello world
