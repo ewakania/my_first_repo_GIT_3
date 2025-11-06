@@ -1,0 +1,25 @@
+commit cf25f73721cedd41642e720103e6aaa93eda1428
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Thu Nov 6 15:47:46 2025 +0800
+
+    Dodano nowy plik GIT_5_diff.txt
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..6103fc2
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,13 @@
++Zmiany: 
++
++@@ -0,0 +1,2 @@
+++Lorem ipsum….etc
+++
++
++oznacza, ze utworzono nowy plik o nazwie “drugi_plik”, w ktorym dodano od lini 1, 2 wiersze. Jedna to Lorem ipsum….etc, a druga jest pusta.
++
++@@ -0,0 +1 @@
++
+++hello world
++
++oznacza, ze zedytowano plik o nazwie “nowy_plik”, w ktorym dodano od lini 1, 1 wiersz z trescia hello world
