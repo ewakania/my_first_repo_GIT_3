@@ -1,0 +1,13 @@
+Zmiany: 
+
+@@ -0,0 +1,2 @@
++Lorem ipsum….etc
++
+
+oznacza, ze utworzono nowy plik o nazwie “drugi_plik”, w ktorym dodano od lini 1, 2 wiersze. Jedna to Lorem ipsum….etc, a druga jest pusta.
+
+@@ -0,0 +1 @@
+
++hello world
+
+oznacza, ze zedytowano plik o nazwie “nowy_plik”, w ktorym dodano od lini 1, 1 wiersz z trescia hello world
