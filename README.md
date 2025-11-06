@@ -6,4 +6,7 @@ Strona będzie pełnić funkcję wizytówki online dla gabinetu masażu, prezent
 
 Nazwa przedmiotu: System kontroli wersji EDYCJA 5
 Nazwa repozytorium: my_first_repo_GIT_3
-Numer słuchacza: pd5227Praca z gałęziami i rozwiązywanie konfliktów
+<<<<<<< HEAD
+Numer słuchacza: pd5227
+
+Usunelam konflikt

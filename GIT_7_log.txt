@@ -1,0 +1,41 @@
+commit 375f9ccbc2035919dea25fc093faa314a41b6024
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Thu Nov 6 16:02:51 2025 +0800
+
+    Dodano nowe pliki GIT_6_? dotyczace historii rewizji
+
+commit cf25f73721cedd41642e720103e6aaa93eda1428
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Thu Nov 6 15:47:46 2025 +0800
+
+    Dodano nowy plik GIT_5_diff.txt
+
+commit aed811f755e8351978f9d2ee7223b0eae39d889e
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Wed Nov 5 18:03:10 2025 +0800
+
+    Dodanie pliku README
+
+commit 83b865eea67f91d2de72ade7640b849d0b27cd74
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Wed Nov 5 15:56:58 2025 +0800
+
+    Dodanie wszytskich pozostalych plikow
+
+commit 0887de0430eb0024940ac963a9aa8df256d2a3c6
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Wed Nov 5 15:25:11 2025 +0800
+
+    Usunieto GIT_4_status1.txt
+
+commit a546f2a317b6c3b6a3a36b94c59c55fd55b20683
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Wed Nov 5 15:13:46 2025 +0800
+
+    Dodano nowe pliki GIT_2_version, GIT_4_status1, GIT_4_status2
+
+commit 4081af0da1bc863f11d7f1b55b4da14afc460504
+Author: ewa <pd5227@pjwstk.edu.pl>
+Date:   Mon Nov 3 16:13:45 2025 +0800
+
+    First changes
