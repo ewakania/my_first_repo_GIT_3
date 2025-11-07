@@ -1,0 +1,13 @@
+*   00f8dbd Merge branch 'test'
+|\  
+| * 29618ad Dodano do pliku README.md linijke w galezi test "Tym wpisem chcemy wywołać konflikt."
+| * 9de22a3 Dodano nowe pliki do galezi test
+* | 595aa17 Dodano do pliku README.md linijke w galezi main "Praca z gałęziami i rozwiązywanie konfliktów"
+|/  
+* 375f9cc Dodano nowe pliki GIT_6_? dotyczace historii rewizji
+* cf25f73 Dodano nowy plik GIT_5_diff.txt
+* aed811f Dodanie pliku README
+* 83b865e Dodanie wszytskich pozostalych plikow
+* 0887de0 Usunieto GIT_4_status1.txt
+* a546f2a Dodano nowe pliki GIT_2_version, GIT_4_status1, GIT_4_status2
+* 4081af0 First changes
