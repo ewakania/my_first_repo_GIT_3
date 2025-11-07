@@ -1,0 +1,1 @@
+stash@{0}: WIP on main: 8afcb5d Dodano nowe pliki GIT_7_brannch.txt i GIT_7_conflict.txt
