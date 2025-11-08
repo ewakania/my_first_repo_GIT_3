@@ -1,0 +1,38 @@
+a2bd27c HEAD@{0}: commit: Dodano nowy plik GIT_9_reset.txt
+f2a1f5f HEAD@{1}: reset: moving to HEAD~1
+647ddf7 HEAD@{2}: reset: moving to HEAD~1
+9190310 HEAD@{3}: commit: Dodano porawiony GIT_9_log.txt
+647ddf7 HEAD@{4}: commit: Dodano nowy plik GIT_9_log.txt
+f2a1f5f HEAD@{5}: commit: Dodano nowe pliki GIT_8_cherry-pick_done.txt i GIT_8_rebase.txt
+f2f93d8 HEAD@{6}: cherry-pick: Dodano nowy plik GIT_8_cherry-pick.txt na galezi test
+44a05e1 HEAD@{7}: checkout: moving from test to main
+493ab3f HEAD@{8}: commit: Dodano nowy plik GIT_8_cherry-pick.txt na galezi test
+9062359 HEAD@{9}: checkout: moving from main to test
+44a05e1 HEAD@{10}: rebase (finish): returning to refs/heads/main
+44a05e1 HEAD@{11}: rebase (squash): Dodano nowe pliki GIT_8_branch.txt i GIT_8_status.txt
+e3cd3ff HEAD@{12}: rebase (start): checkout HEAD~2
+6336dac HEAD@{13}: commit: Dodano nowy plik GIT_8_status.txt
+e3cd3ff HEAD@{14}: commit: Dodano nowe pliki GIT_8_branch.txt i GIT_8_status.txt
+5c3eecb HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+7a6f3b2 HEAD@{16}: checkout: moving from test to main
+9062359 HEAD@{17}: commit: Dodano nowy plik GIT_8_diff.txt
+f6cd98b HEAD@{18}: commit: Dodano nowy plik GIT_8_log.txt na galezi test
+29618ad HEAD@{19}: checkout: moving from main to test
+7a6f3b2 HEAD@{20}: commit: Dodano nowy plik GIT_8_stash_list.txt
+8afcb5d HEAD@{21}: reset: moving to HEAD
+8afcb5d HEAD@{22}: commit: Dodano nowe pliki GIT_7_brannch.txt i GIT_7_conflict.txt
+00f8dbd HEAD@{23}: commit (merge): Merge branch 'test'
+595aa17 HEAD@{24}: checkout: moving from test to main
+29618ad HEAD@{25}: commit: Dodano do pliku README.md linijke w galezi test "Tym wpisem chcemy wywołać konflikt."
+9de22a3 HEAD@{26}: checkout: moving from main to test
+595aa17 HEAD@{27}: commit: Dodano do pliku README.md linijke w galezi main "Praca z gałęziami i rozwiązywanie konfliktów"
+375f9cc HEAD@{28}: checkout: moving from test to main
+9de22a3 HEAD@{29}: commit: Dodano nowe pliki do galezi test
+375f9cc HEAD@{30}: checkout: moving from main to test
+375f9cc HEAD@{31}: commit: Dodano nowe pliki GIT_6_? dotyczace historii rewizji
+cf25f73 HEAD@{32}: commit: Dodano nowy plik GIT_5_diff.txt
+aed811f HEAD@{33}: commit: Dodanie pliku README
+83b865e HEAD@{34}: commit: Dodanie wszytskich pozostalych plikow
+0887de0 HEAD@{35}: commit: Usunieto GIT_4_status1.txt
+a546f2a HEAD@{36}: commit: Dodano nowe pliki GIT_2_version, GIT_4_status1, GIT_4_status2
+4081af0 HEAD@{37}: commit (initial): First changes
