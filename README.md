@@ -15,7 +15,6 @@ Usunelam konflikt
 - 08.11.2025
 - 19:16
 
-```
-git init
 
-```
+```bash
+git init
